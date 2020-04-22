@@ -1,0 +1,937 @@
+**** 第1轮 ****
+==== rryyWwss + rryyWwss ====
+rryywwss = 紫
+==== rryyWwss + rrYYWWss ====
+rrYyWwss = 白
+rrYyWWss = 黄
+==== RRyyWWSs + RRyyWWSs ====
+RRyyWWss = 黑
+RRyyWWSs = 红
+RRyyWWSS = 粉
+==== RRyyWWSs + rrYYWWss ====
+RrYyWWss = 橙
+RrYyWWSs = 黄
+==== rrYYWWss + rrYYWWss ====
+rrYYWWss = 黄
+
+添加种子: rryywwss = 紫
+添加种子: rrYyWwss = 白
+添加种子: rrYyWWss = 黄
+添加种子: RRyyWWss = 黑
+添加种子: RRyyWWSS = 粉
+添加种子: RrYyWWss = 橙
+添加种子: RrYyWWSs = 黄
+
+
+
+**** 第2轮 ****
+==== rryyWwss + rryyWwss ====
+rryywwss = 紫
+==== rryyWwss + rrYYWWss ====
+rrYyWwss = 白
+rrYyWWss = 黄
+==== rryyWwss + rryywwss ====
+rryywwss = 紫
+rryyWwss = 白
+==== rryyWwss + rrYyWwss ====
+rrYyWWss = 黄
+==== rryyWwss + rrYyWWss ====
+rrYyWWss = 黄
+==== rryyWwss + RrYyWWss ====
+rrYyWWss = 黄
+RrYyWWss = 橙
+==== rryyWwss + RrYyWWSs ====
+RrYyWWss = 橙
+==== RRyyWWSs + RRyyWWSs ====
+RRyyWWss = 黑
+RRyyWWSs = 红
+RRyyWWSS = 粉
+==== RRyyWWSs + rrYYWWss ====
+RrYyWWss = 橙
+RrYyWWSs = 黄
+==== RRyyWWSs + rryywwss ====
+RryyWwss = 红
+RryyWwSs = 粉
+==== RRyyWWSs + rrYyWwss ====
+RrYyWWss = 橙
+RrYyWWSs = 黄
+==== RRyyWWSs + rrYyWWss ====
+RryyWWss = 红
+RryyWWSs = 粉
+RrYyWWss = 橙
+RrYyWWSs = 黄
+==== RRyyWWSs + RRyyWWss ====
+RRyyWWss = 黑
+RRyyWWSs = 红
+==== RRyyWWSs + RRyyWWSS ====
+RRyyWWSs = 红
+RRyyWWSS = 粉
+==== RRyyWWSs + RrYyWWss ====
+RryyWWSs = 粉
+RrYyWWSs = 黄
+RRyyWWss = 黑
+==== RRyyWWSs + RrYyWWSs ====
+RryyWWSS = 白
+RRyyWWss = 黑
+==== rrYYWWss + rrYYWWss ====
+rrYYWWss = 黄
+==== rrYYWWss + rryywwss ====
+rrYyWwss = 白
+==== rrYYWWss + rrYyWwss ====
+rrYyWwss = 白
+==== rrYYWWss + RRyyWWss ====
+RrYyWWss = 橙
+==== rrYYWWss + RRyyWWSS ====
+RrYyWWSs = 黄
+==== rryywwss + rryywwss ====
+rryywwss = 紫
+==== rryywwss + RRyyWWss ====
+RryyWwss = 红
+==== rryywwss + RRyyWWSS ====
+RryyWwSs = 粉
+==== rrYyWwss + RRyyWWss ====
+RrYyWWss = 橙
+==== rrYyWwss + RRyyWWSS ====
+RrYyWWSs = 黄
+==== rrYyWWss + rrYyWWss ====
+rryyWWss = 白
+==== rrYyWWss + RRyyWWss ====
+RryyWWss = 红
+RrYyWWss = 橙
+==== rrYyWWss + RRyyWWSS ====
+RryyWWSs = 粉
+RrYyWWSs = 黄
+==== rrYyWWss + RrYyWWss ====
+rryyWWss = 白
+RryyWWss = 红
+==== rrYyWWss + RrYyWWSs ====
+RryyWWss = 红
+RryyWWSs = 粉
+==== RRyyWWss + RRyyWWss ====
+RRyyWWss = 黑
+==== RRyyWWss + RRyyWWSS ====
+RRyyWWSs = 红
+==== RRyyWWss + RrYyWWss ====
+RryyWWss = 红
+RRyyWWss = 黑
+==== RRyyWWss + RrYyWWSs ====
+RryyWWSs = 粉
+RrYyWWSs = 黄
+RRyyWWss = 黑
+==== RRyyWWSS + RRyyWWSS ====
+RRyyWWSS = 粉
+==== RRyyWWSS + RrYyWWss ====
+RryyWWSs = 粉
+RrYyWWSs = 黄
+RRyyWWSs = 红
+RRYyWWSs = 橙
+==== RRyyWWSS + RrYyWWSs ====
+RryyWWSS = 白
+RRyyWWSs = 红
+RRYyWWSs = 橙
+==== RrYyWWss + RrYyWWss ====
+rryyWWss = 白
+RryyWWss = 红
+RRyyWWss = 黑
+==== RrYyWWss + RrYyWWSs ====
+RryyWWSs = 粉
+RRyyWWss = 黑
+==== RrYyWWSs + RrYyWWSs ====
+RRyyWWss = 黑
+
+添加种子: RryyWwss = 红
+添加种子: RryyWwSs = 粉
+添加种子: RryyWWss = 红
+添加种子: RryyWWSs = 粉
+添加种子: RryyWWSS = 白
+添加种子: rryyWWss = 白
+添加种子: RRYyWWSs = 橙
+
+
+
+**** 第3轮 ****
+==== rryyWwss + rryyWwss ====
+rryywwss = 紫
+==== rryyWwss + rrYYWWss ====
+rrYyWwss = 白
+rrYyWWss = 黄
+==== rryyWwss + rryywwss ====
+rryywwss = 紫
+rryyWwss = 白
+==== rryyWwss + rrYyWwss ====
+rrYyWWss = 黄
+==== rryyWwss + rrYyWWss ====
+rrYyWWss = 黄
+==== rryyWwss + RrYyWWss ====
+rrYyWWss = 黄
+RrYyWWss = 橙
+==== rryyWwss + RrYyWWSs ====
+RrYyWWss = 橙
+==== rryyWwss + RryyWwss ====
+rryywwss = 紫
+==== rryyWwss + RRYyWWSs ====
+RrYyWWss = 橙
+RrYyWWSs = 黄
+==== RRyyWWSs + RRyyWWSs ====
+RRyyWWss = 黑
+RRyyWWSs = 红
+RRyyWWSS = 粉
+==== RRyyWWSs + rrYYWWss ====
+RrYyWWss = 橙
+RrYyWWSs = 黄
+==== RRyyWWSs + rryywwss ====
+RryyWwss = 红
+RryyWwSs = 粉
+==== RRyyWWSs + rrYyWwss ====
+RrYyWWss = 橙
+RrYyWWSs = 黄
+==== RRyyWWSs + rrYyWWss ====
+RryyWWss = 红
+RryyWWSs = 粉
+RrYyWWss = 橙
+RrYyWWSs = 黄
+==== RRyyWWSs + RRyyWWss ====
+RRyyWWss = 黑
+RRyyWWSs = 红
+==== RRyyWWSs + RRyyWWSS ====
+RRyyWWSs = 红
+RRyyWWSS = 粉
+==== RRyyWWSs + RrYyWWss ====
+RryyWWSs = 粉
+RrYyWWSs = 黄
+RRyyWWss = 黑
+==== RRyyWWSs + RrYyWWSs ====
+RryyWWSS = 白
+RRyyWWss = 黑
+==== RRyyWWSs + RryyWWss ====
+RryyWWSs = 粉
+RRyyWWss = 黑
+==== RRyyWWSs + RryyWWSs ====
+RryyWWSS = 白
+RRyyWWss = 黑
+==== RRyyWWSs + RryyWWSS ====
+RryyWWSS = 白
+RRyyWWSs = 红
+==== RRyyWWSs + rryyWWss ====
+RryyWWss = 红
+RryyWWSs = 粉
+==== RRyyWWSs + RRYyWWSs ====
+RRyyWWss = 黑
+RRyyWWSs = 红
+RRyyWWSS = 粉
+RRYyWWSS = 黄
+==== rrYYWWss + rrYYWWss ====
+rrYYWWss = 黄
+==== rrYYWWss + rryywwss ====
+rrYyWwss = 白
+==== rrYYWWss + rrYyWwss ====
+rrYyWwss = 白
+==== rrYYWWss + RRyyWWss ====
+RrYyWWss = 橙
+==== rrYYWWss + RRyyWWSS ====
+RrYyWWSs = 黄
+==== rrYYWWss + RryyWwss ====
+rrYyWwss = 白
+rrYyWWss = 黄
+RrYyWwss = 红
+RrYyWWss = 橙
+==== rrYYWWss + RryyWwSs ====
+RrYyWwss = 红
+RrYyWwSs = 粉
+RrYyWWss = 橙
+==== rrYYWWss + RryyWWss ====
+rrYyWWss = 黄
+RrYyWWss = 橙
+==== rrYYWWss + RryyWWSs ====
+RrYyWWss = 橙
+==== rrYYWWss + rryyWWss ====
+rrYyWWss = 黄
+==== rryywwss + rryywwss ====
+rryywwss = 紫
+==== rryywwss + RRyyWWss ====
+RryyWwss = 红
+==== rryywwss + RRyyWWSS ====
+RryyWwSs = 粉
+==== rryywwss + RryyWwss ====
+rryywwss = 紫
+rryyWwss = 白
+==== rryywwss + RryyWWss ====
+rryyWwss = 白
+RryyWwss = 红
+==== rryywwss + RryyWWSs ====
+RryyWwss = 红
+RryyWwSs = 粉
+==== rryywwss + RryyWWSS ====
+rryyWwSs = 白
+RryyWwSs = 粉
+==== rryywwss + rryyWWss ====
+rryyWwss = 白
+==== rrYyWwss + RRyyWWss ====
+RrYyWWss = 橙
+==== rrYyWwss + RRyyWWSS ====
+RrYyWWSs = 黄
+==== rrYyWwss + RryyWwss ====
+rrYyWWss = 黄
+RrYyWWss = 橙
+==== rrYyWwss + RryyWwSs ====
+RrYyWWss = 橙
+==== rrYyWwss + RryyWWss ====
+rrYyWWss = 黄
+RrYyWWss = 橙
+==== rrYyWwss + RryyWWSs ====
+RrYyWWss = 橙
+==== rrYyWwss + rryyWWss ====
+rrYyWWss = 黄
+==== rrYyWWss + rrYyWWss ====
+rryyWWss = 白
+==== rrYyWWss + RRyyWWss ====
+RryyWWss = 红
+RrYyWWss = 橙
+==== rrYyWWss + RRyyWWSS ====
+RryyWWSs = 粉
+RrYyWWSs = 黄
+==== rrYyWWss + RrYyWWss ====
+rryyWWss = 白
+RryyWWss = 红
+==== rrYyWWss + RrYyWWSs ====
+RryyWWss = 红
+RryyWWSs = 粉
+==== rrYyWWss + RryyWwss ====
+rrYyWWss = 黄
+RrYyWWss = 橙
+==== rrYyWWss + RryyWwSs ====
+RrYyWWss = 橙
+==== rrYyWWss + RryyWWss ====
+rryyWWss = 白
+rrYyWWss = 黄
+RryyWWss = 红
+RrYyWWss = 橙
+==== rrYyWWss + RryyWWSs ====
+RryyWWss = 红
+RryyWWSs = 粉
+RrYyWWss = 橙
+==== rrYyWWss + RryyWWSS ====
+rryyWWSs = 白
+RryyWWSs = 粉
+==== rrYyWWss + rryyWWss ====
+rryyWWss = 白
+rrYyWWss = 黄
+==== rrYyWWss + RRYyWWSs ====
+RryyWWss = 红
+RryyWWSs = 粉
+==== RRyyWWss + RRyyWWss ====
+RRyyWWss = 黑
+==== RRyyWWss + RRyyWWSS ====
+RRyyWWSs = 红
+==== RRyyWWss + RrYyWWss ====
+RryyWWss = 红
+RRyyWWss = 黑
+==== RRyyWWss + RrYyWWSs ====
+RryyWWSs = 粉
+RrYyWWSs = 黄
+RRyyWWss = 黑
+==== RRyyWWss + RryyWWss ====
+RryyWWss = 红
+RRyyWWss = 黑
+==== RRyyWWss + RryyWWSs ====
+RryyWWSs = 粉
+RRyyWWss = 黑
+==== RRyyWWss + RryyWWSS ====
+RryyWWSs = 粉
+RRyyWWSs = 红
+==== RRyyWWss + rryyWWss ====
+RryyWWss = 红
+==== RRyyWWss + RRYyWWSs ====
+RRyyWWss = 黑
+RRyyWWSs = 红
+==== RRyyWWSS + RRyyWWSS ====
+RRyyWWSS = 粉
+==== RRyyWWSS + RrYyWWss ====
+RryyWWSs = 粉
+RrYyWWSs = 黄
+RRyyWWSs = 红
+RRYyWWSs = 橙
+==== RRyyWWSS + RrYyWWSs ====
+RryyWWSS = 白
+RRyyWWSs = 红
+RRYyWWSs = 橙
+==== RRyyWWSS + RryyWWss ====
+RryyWWSs = 粉
+RRyyWWSs = 红
+==== RRyyWWSS + RryyWWSs ====
+RryyWWSS = 白
+RRyyWWSs = 红
+==== RRyyWWSS + RryyWWSS ====
+RryyWWSS = 白
+RRyyWWSS = 粉
+==== RRyyWWSS + rryyWWss ====
+RryyWWSs = 粉
+==== RRyyWWSS + RRYyWWSs ====
+RRyyWWSs = 红
+RRyyWWSS = 粉
+RRYyWWSs = 橙
+RRYyWWSS = 黄
+==== RrYyWWss + RrYyWWss ====
+rryyWWss = 白
+RryyWWss = 红
+RRyyWWss = 黑
+==== RrYyWWss + RrYyWWSs ====
+RryyWWSs = 粉
+RRyyWWss = 黑
+==== RrYyWWss + RryyWwss ====
+rrYyWWss = 黄
+==== RrYyWWss + RryyWWss ====
+rryyWWss = 白
+rrYyWWss = 黄
+RryyWWss = 红
+RRyyWWss = 黑
+==== RrYyWWss + RryyWWSs ====
+RryyWWSs = 粉
+RRyyWWss = 黑
+==== RrYyWWss + RryyWWSS ====
+rryyWWSs = 白
+RryyWWSs = 粉
+RRyyWWSs = 红
+RRYyWWSs = 橙
+==== RrYyWWss + rryyWWss ====
+rryyWWss = 白
+rrYyWWss = 黄
+RryyWWss = 红
+RrYyWWss = 橙
+==== RrYyWWss + RRYyWWSs ====
+RryyWWSs = 粉
+RRyyWWss = 黑
+==== RrYyWWSs + RrYyWWSs ====
+RRyyWWss = 黑
+==== RrYyWWSs + RryyWWss ====
+RryyWWSs = 粉
+RRyyWWss = 黑
+==== RrYyWWSs + RryyWWSs ====
+RRyyWWss = 黑
+==== RrYyWWSs + RryyWWSS ====
+RRyyWWSs = 红
+RRYyWWSs = 橙
+==== RrYyWWSs + rryyWWss ====
+RryyWWss = 红
+RryyWWSs = 粉
+RrYyWWss = 橙
+==== RrYyWWSs + RRYyWWSs ====
+RryyWWSS = 白
+RRyyWWss = 黑
+==== RryyWwss + RryyWwss ====
+rryywwss = 紫
+==== RryyWwss + RRYyWWSs ====
+RrYyWWSs = 黄
+==== RryyWWss + RryyWWss ====
+rryyWWss = 白
+RryyWWss = 红
+RRyyWWss = 黑
+==== RryyWWss + RryyWWSs ====
+RryyWWSs = 粉
+RRyyWWss = 黑
+==== RryyWWss + RryyWWSS ====
+rryyWWSs = 白
+RryyWWSs = 粉
+RRyyWWSs = 红
+==== RryyWWss + rryyWWss ====
+rryyWWss = 白
+RryyWWss = 红
+==== RryyWWss + RRYyWWSs ====
+RryyWWSs = 粉
+RrYyWWSs = 黄
+RRyyWWss = 黑
+==== RryyWWSs + RryyWWSs ====
+RRyyWWss = 黑
+==== RryyWWSs + RryyWWSS ====
+RRyyWWSs = 红
+==== RryyWWSs + rryyWWss ====
+RryyWWss = 红
+RryyWWSs = 粉
+==== RryyWWSs + RRYyWWSs ====
+RryyWWSS = 白
+RRyyWWss = 黑
+==== RryyWWSS + RryyWWSS ====
+RRyyWWSS = 粉
+==== RryyWWSS + rryyWWss ====
+rryyWWSs = 白
+RryyWWSs = 粉
+==== RryyWWSS + RRYyWWSs ====
+RryyWWSS = 白
+RRyyWWSs = 红
+RRYyWWSs = 橙
+==== rryyWWss + rryyWWss ====
+rryyWWss = 白
+==== rryyWWss + RRYyWWSs ====
+RryyWWss = 红
+RryyWWSs = 粉
+RrYyWWss = 橙
+RrYyWWSs = 黄
+==== RRYyWWSs + RRYyWWSs ====
+RRyyWWss = 黑
+RRyyWWSs = 红
+RRyyWWSS = 粉
+
+添加种子: RRYyWWSS = 黄
+添加种子: RrYyWwss = 红
+添加种子: RrYyWwSs = 粉
+添加种子: rryyWwSs = 白
+添加种子: rryyWWSs = 白
+
+
+
+**** 第4轮 ****
+==== rryyWwss + rryyWwss ====
+rryywwss = 紫
+==== rryyWwss + rrYYWWss ====
+rrYyWwss = 白
+rrYyWWss = 黄
+==== rryyWwss + rryywwss ====
+rryywwss = 紫
+rryyWwss = 白
+==== rryyWwss + rrYyWwss ====
+rrYyWWss = 黄
+==== rryyWwss + rrYyWWss ====
+rrYyWWss = 黄
+==== rryyWwss + RrYyWWss ====
+rrYyWWss = 黄
+RrYyWWss = 橙
+==== rryyWwss + RrYyWWSs ====
+RrYyWWss = 橙
+==== rryyWwss + RryyWwss ====
+rryywwss = 紫
+==== rryyWwss + RRYyWWSs ====
+RrYyWWss = 橙
+RrYyWWSs = 黄
+==== rryyWwss + RRYyWWSS ====
+RrYyWWSs = 黄
+==== rryyWwss + RrYyWwss ====
+rrYyWWss = 黄
+RrYyWWss = 橙
+==== rryyWwss + RrYyWwSs ====
+RrYyWWss = 橙
+==== RRyyWWSs + RRyyWWSs ====
+RRyyWWss = 黑
+RRyyWWSs = 红
+RRyyWWSS = 粉
+==== RRyyWWSs + rrYYWWss ====
+RrYyWWss = 橙
+RrYyWWSs = 黄
+==== RRyyWWSs + rryywwss ====
+RryyWwss = 红
+RryyWwSs = 粉
+==== RRyyWWSs + rrYyWwss ====
+RrYyWWss = 橙
+RrYyWWSs = 黄
+==== RRyyWWSs + rrYyWWss ====
+RryyWWss = 红
+RryyWWSs = 粉
+RrYyWWss = 橙
+RrYyWWSs = 黄
+==== RRyyWWSs + RRyyWWss ====
+RRyyWWss = 黑
+RRyyWWSs = 红
+==== RRyyWWSs + RRyyWWSS ====
+RRyyWWSs = 红
+RRyyWWSS = 粉
+==== RRyyWWSs + RrYyWWss ====
+RryyWWSs = 粉
+RrYyWWSs = 黄
+RRyyWWss = 黑
+==== RRyyWWSs + RrYyWWSs ====
+RryyWWSS = 白
+RRyyWWss = 黑
+==== RRyyWWSs + RryyWWss ====
+RryyWWSs = 粉
+RRyyWWss = 黑
+==== RRyyWWSs + RryyWWSs ====
+RryyWWSS = 白
+RRyyWWss = 黑
+==== RRyyWWSs + RryyWWSS ====
+RryyWWSS = 白
+RRyyWWSs = 红
+==== RRyyWWSs + rryyWWss ====
+RryyWWss = 红
+RryyWWSs = 粉
+==== RRyyWWSs + RRYyWWSs ====
+RRyyWWss = 黑
+RRyyWWSs = 红
+RRyyWWSS = 粉
+RRYyWWSS = 黄
+==== RRyyWWSs + RRYyWWSS ====
+RRyyWWSs = 红
+RRyyWWSS = 粉
+RRYyWWSs = 橙
+RRYyWWSS = 黄
+==== RRyyWWSs + RrYyWwss ====
+RrYyWWSs = 黄
+==== RRyyWWSs + rryyWWSs ====
+RryyWWss = 红
+RryyWWSs = 粉
+RryyWWSS = 白
+==== rrYYWWss + rrYYWWss ====
+rrYYWWss = 黄
+==== rrYYWWss + rryywwss ====
+rrYyWwss = 白
+==== rrYYWWss + rrYyWwss ====
+rrYyWwss = 白
+==== rrYYWWss + RRyyWWss ====
+RrYyWWss = 橙
+==== rrYYWWss + RRyyWWSS ====
+RrYyWWSs = 黄
+==== rrYYWWss + RryyWwss ====
+rrYyWwss = 白
+rrYyWWss = 黄
+RrYyWwss = 红
+RrYyWWss = 橙
+==== rrYYWWss + RryyWwSs ====
+RrYyWwss = 红
+RrYyWwSs = 粉
+RrYyWWss = 橙
+==== rrYYWWss + RryyWWss ====
+rrYyWWss = 黄
+RrYyWWss = 橙
+==== rrYYWWss + RryyWWSs ====
+RrYyWWss = 橙
+==== rrYYWWss + rryyWWss ====
+rrYyWWss = 黄
+==== rrYYWWss + RrYyWwss ====
+rrYyWwss = 白
+RrYyWwss = 红
+==== rrYYWWss + RrYyWwSs ====
+RrYyWwss = 红
+RrYyWwSs = 粉
+==== rryywwss + rryywwss ====
+rryywwss = 紫
+==== rryywwss + RRyyWWss ====
+RryyWwss = 红
+==== rryywwss + RRyyWWSS ====
+RryyWwSs = 粉
+==== rryywwss + RryyWwss ====
+rryywwss = 紫
+rryyWwss = 白
+==== rryywwss + RryyWWss ====
+rryyWwss = 白
+RryyWwss = 红
+==== rryywwss + RryyWWSs ====
+RryyWwss = 红
+RryyWwSs = 粉
+==== rryywwss + RryyWWSS ====
+rryyWwSs = 白
+RryyWwSs = 粉
+==== rryywwss + rryyWWss ====
+rryyWwss = 白
+==== rrYyWwss + RRyyWWss ====
+RrYyWWss = 橙
+==== rrYyWwss + RRyyWWSS ====
+RrYyWWSs = 黄
+==== rrYyWwss + RryyWwss ====
+rrYyWWss = 黄
+RrYyWWss = 橙
+==== rrYyWwss + RryyWwSs ====
+RrYyWWss = 橙
+==== rrYyWwss + RryyWWss ====
+rrYyWWss = 黄
+RrYyWWss = 橙
+==== rrYyWwss + RryyWWSs ====
+RrYyWWss = 橙
+==== rrYyWwss + rryyWWss ====
+rrYyWWss = 黄
+==== rrYyWWss + rrYyWWss ====
+rryyWWss = 白
+==== rrYyWWss + RRyyWWss ====
+RryyWWss = 红
+RrYyWWss = 橙
+==== rrYyWWss + RRyyWWSS ====
+RryyWWSs = 粉
+RrYyWWSs = 黄
+==== rrYyWWss + RrYyWWss ====
+rryyWWss = 白
+RryyWWss = 红
+==== rrYyWWss + RrYyWWSs ====
+RryyWWss = 红
+RryyWWSs = 粉
+==== rrYyWWss + RryyWwss ====
+rrYyWWss = 黄
+RrYyWWss = 橙
+==== rrYyWWss + RryyWwSs ====
+RrYyWWss = 橙
+==== rrYyWWss + RryyWWss ====
+rryyWWss = 白
+rrYyWWss = 黄
+RryyWWss = 红
+RrYyWWss = 橙
+==== rrYyWWss + RryyWWSs ====
+RryyWWss = 红
+RryyWWSs = 粉
+RrYyWWss = 橙
+==== rrYyWWss + RryyWWSS ====
+rryyWWSs = 白
+RryyWWSs = 粉
+==== rrYyWWss + rryyWWss ====
+rryyWWss = 白
+rrYyWWss = 黄
+==== rrYyWWss + RRYyWWSs ====
+RryyWWss = 红
+RryyWWSs = 粉
+==== rrYyWWss + RRYyWWSS ====
+RryyWWSs = 粉
+==== RRyyWWss + RRyyWWss ====
+RRyyWWss = 黑
+==== RRyyWWss + RRyyWWSS ====
+RRyyWWSs = 红
+==== RRyyWWss + RrYyWWss ====
+RryyWWss = 红
+RRyyWWss = 黑
+==== RRyyWWss + RrYyWWSs ====
+RryyWWSs = 粉
+RrYyWWSs = 黄
+RRyyWWss = 黑
+==== RRyyWWss + RryyWWss ====
+RryyWWss = 红
+RRyyWWss = 黑
+==== RRyyWWss + RryyWWSs ====
+RryyWWSs = 粉
+RRyyWWss = 黑
+==== RRyyWWss + RryyWWSS ====
+RryyWWSs = 粉
+RRyyWWSs = 红
+==== RRyyWWss + rryyWWss ====
+RryyWWss = 红
+==== RRyyWWss + RRYyWWSs ====
+RRyyWWss = 黑
+RRyyWWSs = 红
+==== RRyyWWss + RRYyWWSS ====
+RRyyWWSs = 红
+RRYyWWSs = 橙
+==== RRyyWWss + RrYyWwSs ====
+RrYyWWSs = 黄
+==== RRyyWWss + rryyWWSs ====
+RryyWWss = 红
+RryyWWSs = 粉
+==== RRyyWWSS + RRyyWWSS ====
+RRyyWWSS = 粉
+==== RRyyWWSS + RrYyWWss ====
+RryyWWSs = 粉
+RrYyWWSs = 黄
+RRyyWWSs = 红
+RRYyWWSs = 橙
+==== RRyyWWSS + RrYyWWSs ====
+RryyWWSS = 白
+RRyyWWSs = 红
+RRYyWWSs = 橙
+==== RRyyWWSS + RryyWWss ====
+RryyWWSs = 粉
+RRyyWWSs = 红
+==== RRyyWWSS + RryyWWSs ====
+RryyWWSS = 白
+RRyyWWSs = 红
+==== RRyyWWSS + RryyWWSS ====
+RryyWWSS = 白
+RRyyWWSS = 粉
+==== RRyyWWSS + rryyWWss ====
+RryyWWSs = 粉
+==== RRyyWWSS + RRYyWWSs ====
+RRyyWWSs = 红
+RRyyWWSS = 粉
+RRYyWWSs = 橙
+RRYyWWSS = 黄
+==== RRyyWWSS + RRYyWWSS ====
+RRyyWWSS = 粉
+RRYyWWSS = 黄
+==== RRyyWWSS + RrYyWwss ====
+RrYyWWSs = 黄
+RRYyWWSs = 橙
+==== RRyyWWSS + RrYyWwSs ====
+RRYyWWSs = 橙
+==== RRyyWWSS + rryyWWSs ====
+RryyWWSs = 粉
+RryyWWSS = 白
+==== RrYyWWss + RrYyWWss ====
+rryyWWss = 白
+RryyWWss = 红
+RRyyWWss = 黑
+==== RrYyWWss + RrYyWWSs ====
+RryyWWSs = 粉
+RRyyWWss = 黑
+==== RrYyWWss + RryyWwss ====
+rrYyWWss = 黄
+==== RrYyWWss + RryyWWss ====
+rryyWWss = 白
+rrYyWWss = 黄
+RryyWWss = 红
+RRyyWWss = 黑
+==== RrYyWWss + RryyWWSs ====
+RryyWWSs = 粉
+RRyyWWss = 黑
+==== RrYyWWss + RryyWWSS ====
+rryyWWSs = 白
+RryyWWSs = 粉
+RRyyWWSs = 红
+RRYyWWSs = 橙
+==== RrYyWWss + rryyWWss ====
+rryyWWss = 白
+rrYyWWss = 黄
+RryyWWss = 红
+RrYyWWss = 橙
+==== RrYyWWss + RRYyWWSs ====
+RryyWWSs = 粉
+RRyyWWss = 黑
+==== RrYyWWss + RRYyWWSS ====
+RryyWWSs = 粉
+RRyyWWSs = 红
+==== RrYyWWss + rryyWwSs ====
+RrYyWWss = 橙
+==== RrYyWWss + rryyWWSs ====
+RryyWWss = 红
+RryyWWSs = 粉
+RrYyWWss = 橙
+==== RrYyWWSs + RrYyWWSs ====
+RRyyWWss = 黑
+==== RrYyWWSs + RryyWWss ====
+RryyWWSs = 粉
+RRyyWWss = 黑
+==== RrYyWWSs + RryyWWSs ====
+RRyyWWss = 黑
+==== RrYyWWSs + RryyWWSS ====
+RRyyWWSs = 红
+RRYyWWSs = 橙
+==== RrYyWWSs + rryyWWss ====
+RryyWWss = 红
+RryyWWSs = 粉
+RrYyWWss = 橙
+==== RrYyWWSs + RRYyWWSs ====
+RryyWWSS = 白
+RRyyWWss = 黑
+==== RrYyWWSs + RRYyWWSS ====
+RryyWWSS = 白
+RRyyWWSs = 红
+==== RrYyWWSs + rryyWwSs ====
+RrYyWWss = 橙
+==== RrYyWWSs + rryyWWSs ====
+RryyWWss = 红
+RryyWWSs = 粉
+RrYyWWss = 橙
+==== RryyWwss + RryyWwss ====
+rryywwss = 紫
+==== RryyWwss + RRYyWWSs ====
+RrYyWWSs = 黄
+==== RryyWwss + RRYyWWSS ====
+RrYyWWSs = 黄
+RRYyWWSs = 橙
+==== RryyWwss + RrYyWwss ====
+rrYyWWss = 黄
+==== RryyWwSs + RRYyWWSS ====
+RRYyWWSs = 橙
+==== RryyWWss + RryyWWss ====
+rryyWWss = 白
+RryyWWss = 红
+RRyyWWss = 黑
+==== RryyWWss + RryyWWSs ====
+RryyWWSs = 粉
+RRyyWWss = 黑
+==== RryyWWss + RryyWWSS ====
+rryyWWSs = 白
+RryyWWSs = 粉
+RRyyWWSs = 红
+==== RryyWWss + rryyWWss ====
+rryyWWss = 白
+RryyWWss = 红
+==== RryyWWss + RRYyWWSs ====
+RryyWWSs = 粉
+RrYyWWSs = 黄
+RRyyWWss = 黑
+==== RryyWWss + RRYyWWSS ====
+RryyWWSs = 粉
+RrYyWWSs = 黄
+RRyyWWSs = 红
+RRYyWWSs = 橙
+==== RryyWWss + RrYyWwss ====
+rrYyWWss = 黄
+==== RryyWWss + rryyWWSs ====
+RryyWWss = 红
+RryyWWSs = 粉
+==== RryyWWSs + RryyWWSs ====
+RRyyWWss = 黑
+==== RryyWWSs + RryyWWSS ====
+RRyyWWSs = 红
+==== RryyWWSs + rryyWWss ====
+RryyWWss = 红
+RryyWWSs = 粉
+==== RryyWWSs + RRYyWWSs ====
+RryyWWSS = 白
+RRyyWWss = 黑
+==== RryyWWSs + RRYyWWSS ====
+RryyWWSS = 白
+RRyyWWSs = 红
+RRYyWWSs = 橙
+==== RryyWWSs + rryyWWSs ====
+RryyWWss = 红
+RryyWWSs = 粉
+==== RryyWWSS + RryyWWSS ====
+RRyyWWSS = 粉
+==== RryyWWSS + rryyWWss ====
+rryyWWSs = 白
+RryyWWSs = 粉
+==== RryyWWSS + RRYyWWSs ====
+RryyWWSS = 白
+RRyyWWSs = 红
+RRYyWWSs = 橙
+==== RryyWWSS + RRYyWWSS ====
+RryyWWSS = 白
+RRyyWWSS = 粉
+==== RryyWWSS + RrYyWwss ====
+RRYyWWSs = 橙
+==== RryyWWSS + RrYyWwSs ====
+RRYyWWSs = 橙
+==== RryyWWSS + rryyWWSs ====
+RryyWWSs = 粉
+==== rryyWWss + rryyWWss ====
+rryyWWss = 白
+==== rryyWWss + RRYyWWSs ====
+RryyWWss = 红
+RryyWWSs = 粉
+RrYyWWss = 橙
+RrYyWWSs = 黄
+==== rryyWWss + RRYyWWSS ====
+RryyWWSs = 粉
+RrYyWWSs = 黄
+==== rryyWWss + RrYyWwss ====
+rrYyWWss = 黄
+RrYyWWss = 橙
+==== rryyWWss + RrYyWwSs ====
+RrYyWWss = 橙
+==== RRYyWWSs + RRYyWWSs ====
+RRyyWWss = 黑
+RRyyWWSs = 红
+RRyyWWSS = 粉
+==== RRYyWWSs + RRYyWWSS ====
+RRyyWWSs = 红
+RRyyWWSS = 粉
+==== RRYyWWSs + rryyWwSs ====
+RrYyWWss = 橙
+==== RRYyWWSs + rryyWWSs ====
+RryyWWss = 红
+RryyWWSs = 粉
+RryyWWSS = 白
+RrYyWWss = 橙
+==== RRYyWWSS + RRYyWWSS ====
+RRyyWWSS = 粉
+==== RRYyWWSS + rryyWWSs ====
+RryyWWSs = 粉
+RryyWWSS = 白
+==== RrYyWwss + RrYyWwss ====
+RRYYwwss = 蓝*
+==== RrYyWwss + RrYyWwSs ====
+RRYYwwss = 蓝*
+==== RrYyWwss + rryyWwSs ====
+RrYyWWss = 橙
+==== RrYyWwss + rryyWWSs ====
+RrYyWWss = 橙
+==== RrYyWwSs + RrYyWwSs ====
+RRYYwwss = 蓝*
+==== RrYyWwSs + rryyWwSs ====
+RrYyWWss = 橙
+==== RrYyWwSs + rryyWWSs ====
+RrYyWWss = 橙
+
+添加种子: RRYYwwss = 蓝*
