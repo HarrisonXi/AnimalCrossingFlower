@@ -1,49 +1,17 @@
 **** 第1轮 ****
-==== rryyWwss + rryyWwss ====
-rryywwss = 紫 （25%）
-==== RRyyWWSs + RRyyWWSs ====
-RRyyWWss = 黑 （25%）
-RRyyWWSS = 粉 （25%）
-
-添加种子: rryywwss = 紫
-添加种子: RRyyWWss = 黑
-添加种子: RRyyWWSS = 粉
-
-
-
+rryyWwss(白) + rryyWwss(白) = rryywwss(紫)
+RRyyWWSs(红) + RRyyWWSs(红) = RRyyWWss(黑)
+RRyyWWSs(红) + RRyyWWSs(红) = RRyyWWSS(粉)
 **** 第2轮 ****
-==== RRyyWWSs + rryywwss ====
-RryyWwss = 红 （50%）
-RryyWwSs = 粉 （50%）
-==== rryywwss + RRyyWWss ====
-RryyWwss = 红 （100%）
-==== rryywwss + RRyyWWSS ====
-RryyWwSs = 粉 （100%）
-
-添加种子: RryyWwss = 红
-添加种子: RryyWwSs = 粉
-
-
-
+RRyyWWSs(红) + rryywwss(紫) = RryyWwss(红)
+rryywwss(紫) + RRyyWWss(黑) = RryyWwss(红)
+RRyyWWSs(红) + rryywwss(紫) = RryyWwSs(粉)
+rryywwss(紫) + RRyyWWSS(粉) = RryyWwSs(粉)
 **** 第3轮 ****
-==== rrYYWWss + RryyWwss ====
-RrYyWwss = 红 （25%）
-==== rrYYWWss + RryyWwSs ====
-RrYyWwss = 红 （12.5%）
-RrYyWwSs = 粉 （12.5%）
-
-添加种子: RrYyWwss = 红
-添加种子: RrYyWwSs = 粉
-
-
-
+rrYYWWss(黄) + RryyWwss(红) = RrYyWwss(红)
+rrYYWWss(黄) + RryyWwSs(粉) = RrYyWwss(红)
+rrYYWWss(黄) + RryyWwSs(粉) = RrYyWwSs(粉)
 **** 第4轮 ****
-==== RrYyWwss + RrYyWwss ====
-RRYYwwss = 蓝* （1.56%）
-==== RrYyWwss + RrYyWwSs ====
-RRYYwwss = 蓝* （0.78%）
-==== RrYyWwSs + RrYyWwSs ====
-RRYYwwss = 蓝* （0.39%）
-
-
-添加种子: RRYYwwss = 蓝*
+RrYyWwss(红) + RrYyWwss(红) = RRYYwwss(蓝)
+RrYyWwss(红) + RrYyWwSs(粉) = RRYYwwss(蓝)
+RrYyWwSs(粉) + RrYyWwSs(粉) = RRYYwwss(蓝)
