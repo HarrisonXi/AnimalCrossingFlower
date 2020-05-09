@@ -22,8 +22,6 @@ Google文档：
 
 ![old.png](https://github.com/HarrisonXi/AnimalCrossingFlower/raw/master/old.png)
 
-![old.png](/Users/harrisonxi/Desktop/AnimalCrossingFlower/old.png)
-
 白色加紫色会杂交出四种花：两个紫色两个白色，但是其中只有一个紫色是我们需要的。所以我们需要二次验证，把杂交出的紫色花跟黄色种子花种一起，看看能不能杂交出黄色花来判断是不是我们要的紫色基因型。这就是我所说的有歧义方案。
 
 这种情况算好的，有歧义方案偶尔可能会出现一些我们没法判断花朵基因型的情况，我没有仔细深究有没有这种可能，有空的时候我会再（继）研（续）究（偷）下（懒）。
@@ -44,13 +42,9 @@ rryyWwss(白) + rryyWwss(白) = rryywwss(紫)
 
 ![output.gif](https://github.com/HarrisonXi/AnimalCrossingFlower/raw/master/output.gif)
 
-![output](/Users/harrisonxi/Desktop/AnimalCrossingFlower/output.gif)
-
 运行的结果：[output.txt](https://github.com/HarrisonXi/AnimalCrossingFlower/blob/master/output.txt)，精简后的有效无歧义培育路线：[result.txt](https://github.com/HarrisonXi/AnimalCrossingFlower/blob/master/result.txt)
 
 ![result.png](https://raw.githubusercontent.com/HarrisonXi/AnimalCrossingFlower/master/result.png)
-
-![result](/Users/harrisonxi/Desktop/AnimalCrossingFlower/result.png)
 
 标记成“(种)”的就是商店买的种子。
 
