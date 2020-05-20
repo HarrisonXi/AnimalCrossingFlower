@@ -1,0 +1,43 @@
+**** 第1轮 ****
+rryyWwss(白) + rryyWwss(白) = rryywwss(紫) 25.0%(6)
+rryyWwss(白) + rrYYWWss(黄) = rrYyWwss(白) 50.0%(7)
+rryyWwss(白) + RRyyWWSs(红) = RryyWwss(红) 25.0% 歧(7)
+rrYYWWss(黄) + RRyyWWSs(红) = RrYyWWss(橙) 50.0%(7)
+rrYYWWss(黄) + RRyyWWSs(红) = RrYyWWSs(黄) 50.0%(6)
+RRyyWWSs(红) + RRyyWWSs(红) = RRyyWWss(黑) 25.0%(6)
+**** 第2轮 ****
+rryyWwss(白) + rrYyWwss(白) = rrYywwss(紫) 12.5% 歧(8)
+rrYYWWss(黄) + RryyWwss(红) = RrYyWwss(红) 25.0%(9)
+RRyyWWSs(红) + rryywwss(紫) = RryyWwSs(粉) 50.0%(6)
+RRyyWWSs(红) + RryyWwss(红) = RRyyWwss(黑) 12.5% 歧(8)
+rryywwss(紫) + rrYyWwss(白) = rrYywwss(紫) 25.0% 歧(8)
+rrYyWwss(白) + rrYyWwss(白) = rrYywwss(紫) 12.5% 歧(8)
+RryyWwss(红) + RRyyWWss(黑) = RRyyWwss(黑) 25.0% 歧(8)
+**** 第3轮 ****
+rrYYWWss(黄) + rrYywwss(紫) = rrYYWwss(黄) 50.0%(8)
+rrYYWWss(黄) + RryyWwSs(粉) = RrYyWwSs(粉) 12.5%(8)
+RRyyWWSs(红) + RRyyWwss(黑) = RRyyWwSs(红) 25.0% 歧(7)
+rrYyWwss(白) + rrYywwss(紫) = rrYYWwss(黄) 12.5%(8)
+RrYyWWss(橙) + rrYywwss(紫) = rrYYWwss(黄) 12.5%(8)
+RrYyWWss(橙) + rrYywwss(紫) = RrYYWwss(橙) 12.5%(10)
+rrYywwss(紫) + rrYywwss(紫) = rrYYwwss(白) 25.0%(9)
+**** 第4轮 ****
+RRyyWwss(黑) + RrYYWwss(橙) = RRYywwss(黑) 12.5%(11)
+rrYYWwss(黄) + RrYYWwss(橙) = RrYYwwss(红) 12.5%(11)
+RrYYWwss(橙) + RrYYWwss(橙) = RrYYwwss(红) 12.5%(11)
+RrYYWwss(橙) + rrYYwwss(白) = RrYYwwss(红) 25.0%(11)
+**** 第5轮 ****
+rryywwss(紫) + RRYywwss(黑) = RrYywwss(红) 50.0% 歧(10)
+rryywwss(紫) + RrYYwwss(红) = RrYywwss(红) 50.0%(10)
+RRyyWWss(黑) + RRYywwss(黑) = RRYyWwss(红) 50.0%(10)
+rrYywwss(紫) + RrYYwwss(红) = RrYywwss(红) 25.0% 歧(10)
+RRyyWwss(黑) + RRYywwss(黑) = RRYyWwss(红) 25.0%(10)
+**** 第6轮 ****
+RRYywwss(黑) + RRYyWwss(红) = RRYYWwss(橙) 12.5%(11)
+**** 结果 ****
+RRYywwss(黑) + RRYywwss(黑) = RRYYwwss(蓝) 25.0%
+RRYywwss(黑) + RrYYwwss(红) = RRYYwwss(蓝) 25.0%
+RRYywwss(黑) + RRYYWwss(橙) = RRYYwwss(蓝) 25.0%
+RrYYwwss(红) + RrYYwwss(红) = RRYYwwss(蓝) 25.0%
+RrYYwwss(红) + RRYYWwss(橙) = RRYYwwss(蓝) 25.0%
+RRYYWwss(橙) + RRYYWwss(橙) = RRYYwwss(蓝) 25.0%
