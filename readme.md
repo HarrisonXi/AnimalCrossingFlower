@@ -62,7 +62,7 @@ RRYYwwss(蓝) = 12分
 
 ### 结论
 
-再次改进后的算法，运行一下就可以得到结果：[output3.txt](https://github.com/HarrisonXi/AnimalCrossingFlower/blob/master/output3.txt)。可以看到已经很简短了，从这里面剔除一些没用上的路线得到下面的结果，就可以按照这个路线尝试进行培育啦。
+再次改进后的算法（源代码：[flower.py](https://github.com/HarrisonXi/AnimalCrossingFlower/blob/master/flower.py)），运行一下就可以得到结果：[output3.txt](https://github.com/HarrisonXi/AnimalCrossingFlower/blob/master/output3.txt)。可以看到已经很简短了，从这里面剔除一些没用上的路线得到下面的结果，就可以按照这个路线尝试进行培育啦。
 
 ```
 **** 第1轮 ****
